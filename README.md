@@ -1,3 +1,6 @@
+![GitHub release](https://img.shields.io/github/v/release/listellionline/yt-cut-merge-gui)
+![GitHub downloads](https://img.shields.io/github/downloads/listellionline/yt-cut-merge-gui/total)
+![License](https://img.shields.io/github/license/listellionline/yt-cut-merge-gui)
 # 🎬 YT Cut Merge GUI
 
 > Scarica, taglia e unisce clip video da YouTube o file locali — con interfaccia grafica semplice e potente.
