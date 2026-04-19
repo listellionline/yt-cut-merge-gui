@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=YT Cut Merge GUI
+Comment=Scarica, taglia e unisce clip video
+Exec=env PYTHONPATH=/opt/yt-cut-merge/src python3 -m yt_cut_merge.gui
+Icon=/opt/yt-cut-merge/assets/app.png
+Terminal=false
+Type=Application
+Categories=AudioVideo;Video;

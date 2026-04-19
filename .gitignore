@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Build
+build/
+dist/
+installer/
+
+# Tools scaricati
+tools/
+
+# Output video
+video/
+*.mp4
+*.mkv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Virtual env
+venv/
+.env
