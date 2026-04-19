@@ -1,1 +1,1 @@
-# opzionale: tienilo vuoto se usi solo librerie standard
+# opzionale: file vuoto se uso solo librerie standard
