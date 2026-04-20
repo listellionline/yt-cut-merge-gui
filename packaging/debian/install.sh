@@ -56,7 +56,7 @@ Exec=env PATH=$HOME/.local/bin:/usr/local/bin:/usr/bin python3 $INSTALL_DIR/run_
 Icon=$INSTALL_DIR/assets/app.png
 Terminal=false
 Type=Application
-Categories=Utility;AudioVideo;
+Categories=AudioVideo;
 EOF
 
 chmod +x "$DESKTOP_FILE"
